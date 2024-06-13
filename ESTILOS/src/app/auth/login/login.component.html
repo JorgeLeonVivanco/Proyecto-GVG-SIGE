@@ -1,0 +1,18 @@
+<div>
+  <div class="container"> <!--contenedor principal del segundo div-->
+    <img src="../../../assets/images/logo.png" class="logo-login">
+    <form [formGroup]="loginForm">
+      <div class="mb-3">
+        <h1 class="titulo1">ACCESO</h1>
+        <label for="exampleInputEmail1" class="form-label">Matricula</label>
+        <input formControlName="matricula" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+      </div>
+      <div class="mb-3">
+        <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+        <input formControlName="password" type="password" class="form-control" id="exampleInputPassword1">
+      </div>
+      <button type="submit" class="btn btn-primary">Iniciar Sesion</button>
+    </form>
+  </div>
+  
+</div>

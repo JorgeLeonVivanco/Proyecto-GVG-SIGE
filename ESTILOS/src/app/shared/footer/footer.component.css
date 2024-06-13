@@ -1,0 +1,21 @@
+/* Estilos del footer */
+.fondo-footer {
+    background-color: black;
+    padding: 0; /* Asegúrate de que no haya relleno adicional */
+    margin: 0; /* Asegúrate de que no haya margen adicional */
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  /* Estilos adicionales */
+  .bg-dark {
+    background-color: #000000 !important; /* Usa !important para asegurarte de que el color de fondo sea efectivo */
+    margin: 0; /* Asegúrate de que no haya margen adicional */
+    padding: 0; /* Asegúrate de que no haya relleno adicional */
+  }
+  

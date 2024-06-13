@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+}
+  
+/*.container{
+    margin: 20px;
+  }*/
+
+  form {
+    background: rgba(255, 255, 255, 0.8); 
+    padding: 100px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    float: right;
+  }
+
+  .logo-login{
+    float:left;
+    max-width: 700px;
+    max-height: 2000px;
+  }
+
+  .titulo1{
+    color:red;
+    margin:20px;
+  }

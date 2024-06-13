@@ -1,0 +1,23 @@
+/* Estilo de la barra de navegación */
+.navbar {
+    background-color: #fbff00; /* Fondo oscuro */
+  }
+  
+  .navbar-toggler {
+    margin-top: 0; /* Eliminar cualquier margen superior del botón de alternar */
+  }
+  
+  .navbar-collapse {
+    margin-top: 0; /* Eliminar cualquier margen superior del contenido colapsado */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #ffee00; /* Color del texto de los enlaces */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #bbc900; /* Color del texto al pasar el ratón por encima */
+  }
+  
+  
+  
